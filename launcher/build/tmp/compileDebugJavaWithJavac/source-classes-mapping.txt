@@ -1,0 +1,2 @@
+com/romans/NewUnityProject1/BuildConfig.java
+ com.romans.NewUnityProject1.BuildConfig

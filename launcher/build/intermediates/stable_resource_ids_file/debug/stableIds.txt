@@ -1,0 +1,14 @@
+com.romans.NewUnityProject1:style/UnityThemeSelector.Translucent = 0x7f050002
+com.romans.NewUnityProject1:style/UnityThemeSelector = 0x7f050001
+com.romans.NewUnityProject1:style/BaseUnityTheme = 0x7f050000
+com.romans.NewUnityProject1:string/FreeformWindowOrientation_portrait = 0x7f040001
+com.romans.NewUnityProject1:string/game_view_content_description = 0x7f040006
+com.romans.NewUnityProject1:string/FreeformWindowSize_tablet = 0x7f040004
+com.romans.NewUnityProject1:string/FreeformWindowSize_maximize = 0x7f040002
+com.romans.NewUnityProject1:mipmap/app_icon_round = 0x7f030001
+com.romans.NewUnityProject1:string/FreeformWindowSize_phone = 0x7f040003
+com.romans.NewUnityProject1:mipmap/app_icon = 0x7f030000
+com.romans.NewUnityProject1:string/FreeformWindowOrientation_landscape = 0x7f040000
+com.romans.NewUnityProject1:id/unitySurfaceView = 0x7f020000
+com.romans.NewUnityProject1:string/app_name = 0x7f040005
+com.romans.NewUnityProject1:drawable/app_banner = 0x7f010000
